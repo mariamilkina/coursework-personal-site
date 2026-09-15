@@ -1,0 +1,42 @@
+site_name: Персональный сайт Марии Милькиной
+site_description: Персональный учебный сайт, созданный с использованием MkDocs
+site_author: Мария Милькина
+site_url: https://mariamilkina.github.io/personal-site/
+
+theme:
+  name: material
+  language: ru
+  logo: images/profile.jpg
+  palette:
+    primary: pink
+    accent: amber
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+
+plugins:
+  - search
+
+nav:
+  - Главная: index.md
+  - О себе: about.md
+  - Проекты: projects.md
+  - Контакты: contacts.md
+
+extra_css:
+  - stylesheets/extra.css
+
+copyright: © 2026 Мария Милькина
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mariamilkina
+      name: GitHub
+
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/mariamilkina
+      name: Telegram
