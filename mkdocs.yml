@@ -1,7 +1,7 @@
 site_name: Персональный сайт Марии Милькиной
 site_description: Персональный учебный сайт, созданный с использованием MkDocs
 site_author: Мария Милькина
-site_url: https://mariamilkina.github.io/personal-site/
+site_url: https://mariamilkina.github.io/coursework-personal-site/
 
 theme:
   name: material
