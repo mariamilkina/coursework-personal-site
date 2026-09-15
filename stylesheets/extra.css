@@ -1,0 +1,15 @@
+.md-header,
+.md-tabs {
+  background-color: #EFA9CF !important;
+}
+
+.md-header__button.md-logo img {
+  width: 42px !important;
+  height: 42px !important;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.md-header__button.md-logo {
+  padding: 2px !important;
+}
