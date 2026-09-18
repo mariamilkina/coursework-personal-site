@@ -25,6 +25,7 @@ nav:
   - О себе: about.md
   - Проекты: projects.md
   - Контакты: contacts.md
+  - Резюме: resume.md
 
 extra_css:
   - stylesheets/extra.css
